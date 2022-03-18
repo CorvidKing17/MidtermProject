@@ -22,6 +22,7 @@ Terrestrial planets exist in the inner solar system due to their location to the
 + [Venus](#venus)
 + [Earth](#earth)
 + [Mars](#mars)
++ [Honorable Mention: Pluto](#pluto)
 ---
 ## Mercury
 Mercury is only a third of Earth's size and is the smallest of the planets in our solar system. As the closest neighbor of the Sun, any potential moons and atmosphere have been burned away, or lost due to Mercury's smaller gravitational field.
@@ -68,10 +69,10 @@ A day on Mars, also known as a **sol**, is roughly the same length as a day on E
 Mars has itself two moons, **Phobos** and **Deimos**, the most out of our terrestrial planets.
 
 ---
-## Honorable Mention: Pluto
-While Pluto is not in the inner half of our solar system, (and no longer claimed as a planet), it is a type of terrestrial planet!
+## Pluto
+While Pluto is not in the inner half of our solar system, (and no longer claimed as a planet), it is sometimes argued as a terrestrial planet.
 
-Composed mostly of ice and hard rock, scientist have theorized that when Pluto first formed, it was covered in oceans and could have harbored life. 
+Composed mostly of ice and hard rock, scientist have theorized that when Pluto first formed, it was covered in oceans and could have harbored life, leaning more towards a terrestrial planet rather than the icey gaseous planet it was known as before.
 
 While Pluto is smaller than many planetary moons, and is known as a dwarf planet, Pluto itself has five known moons, named Charon, Styx, Nix, Kerberos, and Hydra.
 

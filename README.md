@@ -6,6 +6,6 @@ Ever since I was a kid, I have loved space, and have sought out everything I cou
 
 ### Explore Our Solar System!
 + __[The Sun](SUN.md)__
-+ __[The Terrestrial Plants](TERRESTRIAL.md)__
-+ __[The Main Asteroid Belt](ASTEROID.md)__
++ __[Terrestrial Planets](TERRESTRIAL.md)__
++ __[Asteroid Belts & Planetoids](ASTEROID.md)__
 + __[The Jovian Gas Giants](GAS.md)__
