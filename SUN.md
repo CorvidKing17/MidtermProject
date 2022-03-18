@@ -1,5 +1,6 @@
 # The Sun
-**NOTE:** All information sourced from __[National Geographic](https://www.nationalgeographic.org/encyclopedia/sun/print/#:~:text=The%20sun%20is%20not%20a,entirely%20of%20hydrogen%20and%20helium.)__
+![The Sun](https://media.nationalgeographic.org/assets/photos/000/290/29094.jpg "The Sun")
+**NOTE:** All information sourced from __[National Geographic](https://www.nationalgeographic.org/encyclopedia/sun/)__
 
 ## Composition
 The Sun, as many know, is a firey engine that allows life to exist on Earth. But *how* does the sun itself work?
