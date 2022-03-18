@@ -1,6 +1,6 @@
 # The Sun
 ![The Sun](https://media.nationalgeographic.org/assets/photos/000/290/29094.jpg "The Sun")
-**NOTE:** All information sourced from __[National Geographic](https://www.nationalgeographic.org/encyclopedia/sun/)__
+**NOTE:** All images and information are sourced from __[National Geographic](https://www.nationalgeographic.org/encyclopedia/sun/)__.
 
 ## Composition
 The Sun, as many know, is a firey engine that allows life to exist on Earth. But *how* does the sun itself work?
@@ -73,4 +73,4 @@ Solar power can also be collected and distributed without machinery or electroni
 
 Sunlight is abundant: In one hour, Earth’s atmosphere receives enough sunlight to power the electricity needs of all people for a year. However, solar technology is expensive, and depends on sunny and cloudless local weather to be effective. Methods of harnessing the sun’s energy are still being developed and improved.
 
-Return to __[Home Page](README.md)__
+Return to __[Home Page](README.md)__.
