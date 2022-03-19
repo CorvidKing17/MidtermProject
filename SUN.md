@@ -1,5 +1,6 @@
 # The Sun
 ![The Sun](https://media.nationalgeographic.org/assets/photos/000/290/29094.jpg "The Sun")
+
 **NOTE:** All information sourced from __[National Geographic](https://www.nationalgeographic.org/encyclopedia/sun/)__.
 
 ## Composition

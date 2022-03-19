@@ -1,5 +1,6 @@
 # The Terrestrial Plants
 ![Terrestrial Planets](Terrestrial_planet_sizes2.jpg "Terrestrial Planets")
+
 **NOTE:** All information sourced from __[The Planets](https://theplanets.org/terrestrial-planets/)__.
 
 ---

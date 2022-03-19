@@ -1,5 +1,6 @@
 # The Jovian Gas Giants
 ![Gas Giants](https://www.universetoday.com/wp-content/uploads/2009/06/jovian-planets.jpg "Jovian Gas Giants")
+
 **NOTE:** All information sourced from __[The Planets](https://theplanets.org/gas-giants/)__.
 
 ---
@@ -12,7 +13,7 @@ Gas Giants (and sometimes Ice Giants) differ from other planets in that they can
 
 ---
 ## The Outer Solar System
-The Jovian Gas Giants, or the gas giants in our solar system, get their name from Jupiter, and are seperated from the __[Terrestrial Plants](TERRESTRIAL.md)__ by the __[Main Asteroid Belt](ASTEROID.md)__, and are the furthest planets from our __[Sun](SUN.md)__.
+The Jovian Gas Giants, or the gas giants in our solar system, get their name from Jupiter, and are seperated from the __[Terrestrial Planets](TERRESTRIAL.md)__ by the __[Main Asteroid Belt](ASTEROID.md)__, and are the furthest planets from our __[Sun](SUN.md)__.
 
 Gas Giants are billions of years old, and we have never been able to see the direct formation of one yet. However, we have theories on how they came to form. Roughly 4.6 billion years ago a solar nebula occured, creating a cloud composed of dust and gas that eventually gave birth to the Sun. The remainder swirled around the Sun's gravitational pull. While terrestrial planets had gaseous edges, they were burned away by intense solar radiation. The Jovian Gas Giants, however, were far enough away from the Sun to maintain their gaseous edges, and allowed these balls of gas and ice to maintain how they were billions of years ago.
 
