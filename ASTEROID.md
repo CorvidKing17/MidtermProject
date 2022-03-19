@@ -44,5 +44,20 @@ Pluto is believed to have originated from this belt, as its orbit interacts with
 While we have much to explore and learn in regards to the furthest reaches of our solar system and the planetoids it contains, they remain an ever important part of our solar ecosystem and are large reasons our solar system is as unique as it is.
 
 ---
+## Gravitational Pull
+If you're like me, you follow space and space news very closely, and were probably overjoyed when NASA was able to successfully land a probe on an asteroid. While it wasn't able to be there long due to the graviational pull of the asteroid being t00 little for the probe to hang on before being thrown off by the asteroid's spin speed, it made me curious on how easily we could figure out an asteroids gravitational pull, which led to this code:
+
+    def ast_grav(): #Gravitational pull while on an asteroid
+        g_const = 6.6742*(10**-11) #Based on average spin speed of an asteroid in the main belt
+        mass = float(input("What is the mass of the asteroid (kg)? "))
+        radius = float(input("What is the radius of the asteroid (km)? "))
+        gravity = ((g_const * mass) / (radius**2))
+        print(gravity) #Prints out the calculated gravitational pull
+    
+    ast_grav()
+
+By inputting the estimated mass of the asteroid (in kilograms) and the estimated radius of the asteroid (in kilometers), we can use the average gravitational constant for a spherical body at the speed of which an average main belt asteroid travels to evaluate the gravity.
+
+---
 
 Return to __[Home Page](README.md)__.
